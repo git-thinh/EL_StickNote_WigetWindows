@@ -1,0 +1,9 @@
+﻿A self-study reference and practice book for intermediate learners of English = Tài liệu tham khảo và thực hành tự học cho người học trung học tiếng Anh
+responsibility = trách nhiệm
+persistence = sự kiên trì
+useful = hữu ích
+additional course material = vật liệu khóa học bổ sung
+thank you, this simpler solution worked for me. I have a picture box which is filled inside the panel. Instead of panel mouse enter. i did picturebox mouse enter which resolved my issue = cảm ơn bạn, giải pháp đơn giản này đã làm việc cho tôi. Tôi có một hộp hình ảnh được lấp đầy bên trong bảng điều khiển. Thay vì chuột vào bảng. tôi đã làm picturebox chuột nhập mà giải quyết vấn đề của tôi
+This can create a very unexpected behavior, if you click into a textBox or want to edit something else this will focus the panel if you hover into it. I would not do this.. (just my opinion = cảm ơn bạn, giải pháp đơn giản này đã làm việc cho tôi. Tôi có một hộp hình ảnh được lấp đầy bên trong bảng điều khiển. Thay vì chuột vào bảng. tôi đã làm picturebox chuột nhập mà giải quyết vấn đề của tôi...
+In the designer file, you can add the following line of code. the MouseWheel event is not doumented in Events list in the Properties window = Trong tệp thiết kế, bạn có thể thêm dòng mã sau. sự kiện MouseWheel không được liệt kê trong Danh sách sự kiện trong cửa sổ thuộc tính
+Make sure that your panel has focus. And this is simple code to scroll your panel scrollbar. Hope this help. ) enter code here = Hãy chắc chắn rằng bảng điều khiển của bạn đã tập trung. Và đây là mã đơn giản để cuộn thanh cuộn bảng điều khiển của bạn. Hy vọng điều này giúp đỡ. ) nhập mã vào đây

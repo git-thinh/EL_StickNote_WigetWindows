@@ -1,0 +1,10 @@
+D:\_EL\StickNote\bin\Release\StickNote.exe
+D:\_EL\StickNote\bin\Release\StickNote.pdb
+D:\_EL\StickNote\obj\Release\StickNote.csprojResolveAssemblyReference.cache
+D:\_EL\StickNote\obj\Release\StickNote.frmConfig.resources
+D:\_EL\StickNote\obj\Release\StickNote.frmFixBar.resources
+D:\_EL\StickNote\obj\Release\StickNote.frmNote.resources
+D:\_EL\StickNote\obj\Release\StickNote.Properties.Resources.resources
+D:\_EL\StickNote\obj\Release\StickNote.csproj.GenerateResource.Cache
+D:\_EL\StickNote\obj\Release\StickNote.exe
+D:\_EL\StickNote\obj\Release\StickNote.pdb

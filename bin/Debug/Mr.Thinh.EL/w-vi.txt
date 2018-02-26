@@ -1,0 +1,20 @@
+﻿Bổ sung
+Thích và thích hơn
+nâng cao
+cụ thể
+hỗ trợ thiết lập backcolors trong suốt mà không cần thiết lập SetStyle method trong cấu trúc của form. Trong phiên bản khung hiện tại, màu nền cho hầu hết các điều khiển có thể
+các vấn đề
+thích hợp
+Cuốn sách này chủ yếu dành cho sinh viên trung cấp (sinh viên đã nghiên cứu cơ bản ngữ pháp của tiếng Anh). Nó tập trung vào những cấu trúc mà học sinh trung học muốn sử dụng, nhưng thường gây khó khăn. Một số học sinh giỏi có vấn đề về ngữ pháp cũng sẽ tìm cuốn sách hữu ích
+sách. Mỗi đơn vị tập trung vào một điểm đặc biệt của ngữ pháp. Một số các vấn đề (ví dụ, hiện tại hoàn hảo hoặc sử dụng) được bao gồm trong nhiều đơn vị. Cho một danh sách các đơn vị, xem phần Nội dung ở đầu cuốn sách. Mỗi đơn vị bao gồm hai trang đối diện. Ở bên trái có giải thích và ví dụ; trên phải có bài tập. Ở cuối cuốn sách có một Khóa để bạn
+tài liệu tham khảo
+Tài liệu tham khảo và thực hành tự học cho người học trung học tiếng Anh
+Tài liệu tham khảo và thực hành tự học cho người học trung học tiếng Anh
+trách nhiệm
+sự kiên trì
+hữu ích
+vật liệu khóa học bổ sung
+cảm ơn bạn, giải pháp đơn giản này đã làm việc cho tôi. Tôi có một hộp hình ảnh được lấp đầy bên trong bảng điều khiển. Thay vì chuột vào bảng. tôi đã làm picturebox chuột nhập mà giải quyết vấn đề của tôi
+cảm ơn bạn, giải pháp đơn giản này đã làm việc cho tôi. Tôi có một hộp hình ảnh được lấp đầy bên trong bảng điều khiển. Thay vì chuột vào bảng. tôi đã làm picturebox chuột nhập mà giải quyết vấn đề của tôi...
+Trong tệp thiết kế, bạn có thể thêm dòng mã sau. sự kiện MouseWheel không được liệt kê trong Danh sách sự kiện trong cửa sổ thuộc tính
+Hãy chắc chắn rằng bảng điều khiển của bạn đã tập trung. Và đây là mã đơn giản để cuộn thanh cuộn bảng điều khiển của bạn. Hy vọng điều này giúp đỡ. ) nhập mã vào đây
